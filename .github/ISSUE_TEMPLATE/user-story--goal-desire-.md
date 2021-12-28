@@ -1,7 +1,7 @@
 ---
 name: User Story (Goal/Desire)
 about: This is the default user story (goal/desire) template
-title: USER STORY <TITLE>
+title: 'USER STORY: <TITLE>'
 labels: ''
 assignees: ''
 
