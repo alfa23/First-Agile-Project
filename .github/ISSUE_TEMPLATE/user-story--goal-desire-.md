@@ -8,3 +8,8 @@ assignees: ''
 ---
 
 _In order to_ **received benefit** _as a_ **role**, _I can_ **goal/desire**.
+
+# Acceptance Criteria:
+- Acceptance Criteria 1
+- Acceptance Criteria 2
+- Acceptance Criteria 3
